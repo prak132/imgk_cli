@@ -1,5 +1,6 @@
 # Imgk
-* Imgk is an image processing utility that provides various functionalities for manipulating and processing images from the command line.
+* Imgk is a simple image processing utility that provides various functionalities for manipulating and processing images from the command line.
+* This is my first time making a cli prodject and this is very basic, this is just wrapping the pillow library for use in the command line.
 
 # Features
 * Image resizing: Resize images to specific dimensions.
